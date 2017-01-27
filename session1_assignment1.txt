@@ -1,0 +1,14 @@
+1. Hadoop was developed by
+	a) Doug Cutting
+
+2. What mechanisms does Hadoop use to make NameNode resilient to failure?
+	a) take a backup of a filesystem metadata to a local disk and a remote NFS mount
+
+3. What kind of servers are used for creating a Hadoop cluster?
+	b) commodity hardware
+	
+4. As compared to RDBMS, Hadoop has 
+	d) works better on unstructured and semi-structured data
+	
+5. When do you choose big Data tools for processing?
+	d) when you encounter processing challenges in terms of Volume, Velocity and Variety
